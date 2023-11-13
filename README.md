@@ -7,3 +7,6 @@ The only features which are active are the following:
 - imagemagick-ffmpeg
 - file-archive
 - files_external
+
+Todo: 
+- $SHA512
